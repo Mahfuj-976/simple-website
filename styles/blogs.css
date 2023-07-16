@@ -1,4 +1,5 @@
 div{
-    background-color: rgb(152, 71, 132);
+    background-color: rgba(152, 71, 132, 0.446);
     padding: 10px;
+    margin-bottom: 10px;
 }
